@@ -16,18 +16,18 @@ development of a range of cybersecurity standards, guidelines, and best practice
 
 
 
-### Literature Survey: Cloud Security Standards
+### D1:Literature Survey: Cloud Security Standards
 
 For this deliverable, I report on existing standards, guidelines, and best practices related to cloud security. The purpose of this literature review is for me to become familiar with existing cloud security standards and what they prescribe and/or recommend. I provide a critical evaluation of the standards, highlighting similarities and differences, and strengths and weaknesses.
 
-### Literature Survey: Cloud Security Evaluation Approaches
+### D2:Literature Survey: Cloud Security Evaluation Approaches
 
 For this deliverable, I report on existing approaches for evaluating cloud security. The purpose of this literature review is for me to have identified a collection of approaches that are compared as part of my analysis. I provide a description of each of the identified approaches and a justification for its inclusion or exclusion for my comparative analysis. 
 
-### Comparative Analysis Methodology
+### D3:Comparative Analysis Methodology
 
 For this deliverable, I clearly describe my comparative analysis methodology. This involves describing the evaluation criteria that forms the basis for comparison, the scales that are used, and the general procedure for performing the comparisons in a fair, objective, and repeatable manner.
 
-### Final Project Report
+### D4:Final Project Report
 
 The final report represents the culmination of my work. In this deliverable, I present,in detail, a full description of my comparative analysis, the methodology adopted, and the results of the analysis. The final project report also provide a summary of my conclusions and recommendations for improving the state-of-the-art of cloud security evaluation.
